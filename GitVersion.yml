@@ -1,4 +1,4 @@
-mode: mainline
+mode: ContinuousDelivery
 tag-prefix: '[vV]'
 next-version: 2.0.0
 commit-message-incrementing: Enabled
