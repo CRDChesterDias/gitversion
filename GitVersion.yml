@@ -1,5 +1,6 @@
 mode: mainline
 tag-prefix: '[vV]'
+next-version: 2.0.0
 commit-message-incrementing: Enabled
 major-version-bump-message: '\+semver:\s?(breaking|major)'
 minor-version-bump-message: '\+semver:\s?(feature|minor)'
