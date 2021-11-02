@@ -1,9 +1,11 @@
+mode: ContinuousDeployment
 assembly-versioning-scheme: MajorMinorPatch
 mode: Mainline
 next-version: 1.0.0
-branches:
-  develop:
-    mode: ContinuousDeployment
+increment: Patch
+major-version-bump-message: '\+semver:\s?(breaking|major)'
+minor-version-bump-message: '\+semver:\s?(feature|minor)'
+patch-version-bump-message: '\+semver:\s?(fix|patch)'
 ignore:
   sha: []
 merge-message-formats: {}
