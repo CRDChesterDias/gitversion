@@ -1,11 +1,4 @@
 # gitversion
-efoijfsoijfioesjo
-aeifaojeiojfafeeaf
-faieuh
-caeioij
-oijafe
-iajcepjapeojip
-efaijofioaje
-
+afe
 
 eaf;ok
